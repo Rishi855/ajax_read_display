@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+    <id>ID</id>
+    <name>NAME</name>
+    <age>AGE</age>
+    <grade>GRADE</grade>    
+    </student>  
+  <student>
+    <id>1</id>
+    <name>John Doe</name>
+    <age>20</age>
+    <grade>10</grade>
+  </student>
+  <student>
+    <id>2</id>
+    <name>Jane Doe</name>
+    <age>18</age>
+    <grade>9</grade>
+  </student>
+</students>

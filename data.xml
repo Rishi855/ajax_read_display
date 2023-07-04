@@ -1,0 +1,42 @@
+<catalog>
+   <book id="bk1">
+      <author>Corets, Eva</author>
+      <title>Maeve Ascendant</title>
+      <genre>Fantasy</genre>
+      <price>5.95</price>
+   </book>
+   <book id="bk2">
+      <author>Corets, Eva</author>
+      <title>Oberon's Legacy</title>
+      <genre>Fantasy</genre>
+      <price>5.95</price>
+   </book>
+   <book id="bk3">
+      <author>Corets, Eva</author>
+      <title>The Sundered Grail</title>
+      <genre>Fantasy</genre>
+      <price>5.95</price>
+   </book>
+</catalog>
+<!-- <users>
+    <user>
+        <fname>John</fname>
+        <lname>Doe</lname>
+        <email>john.doe@mail.com</email>
+    </user>
+    <user>
+        <fname>Jane</fname>
+        <lname>Doe</lname>
+        <email>jane.doe@mail.com</email>
+    </user>
+    <user>
+        <fname>Joe</fname>
+        <lname>Doe</lname>
+        <email>joe.doe@mail.com</email>
+    </user>
+    <user>
+        <fname>Jom</fname>
+        <lname>Doe</lname>
+        <email>jom.doe@mail.com</email>
+    </user>
+</users>     -->
